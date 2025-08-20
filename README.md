@@ -1,6 +1,6 @@
 
 
-\# Starcucks 💻
+# Starbucks 💻
 
 
 
@@ -10,13 +10,13 @@ Uma página para iniciante treinar seu conhecimento em Html e Css do curso B7web
 
 
 
-\## créditos 
+## créditos 
 
-\[B7web](https://app.b7web.com.br/login)
+[B7web](https://app.b7web.com.br/login)
 
 
 
-\[Nicepage](https://starbucks.nicepage.io/)
+[Nicepage](https://starbucks.nicepage.io/)
 
 
 
